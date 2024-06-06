@@ -120,3 +120,9 @@ h2.title {
 	margin: 0 auto;
 	margin-top: 5px;
 }
+
+.waiting {
+	height: 604px;
+	background-color: #efefef;
+	padding: 85px 0 75px 0;
+}
